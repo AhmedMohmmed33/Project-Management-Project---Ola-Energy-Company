@@ -51,7 +51,7 @@ The architecture enables:
 
 ## Stage 1 — Power Apps Application
 
-![Power Apps Application](assets/app.png)
+![Power Apps Application](assets/app.jpg)
 
 The first stage focused on building a centralized project management application.
 
@@ -86,7 +86,7 @@ The application ensures data consistency, improves governance, and reduces manua
 
 ## Stage 2 — Power Automate Workflow
 
-![Power Automate Flow](assets/flow.png)
+![Power Automate Flow](assets/flow.jpg)
 
 A major challenge appeared during report deployment related to project images.
 
@@ -130,13 +130,13 @@ The dashboard was designed as one integrated reporting stage, and it contains fi
 
 ### 3.1 Cover
 
-![Cover](assets/cover.png)
+![Cover](assets/cover.jpg)
 
 ---
 
 ### 3.2 Executive Summary
 
-![Executive Summary Dashboard](assets/summary.png)
+![Executive Summary Dashboard](assets/summary.jpg)
 
 The Executive Summary page provides leadership with a high-level overview of the project portfolio.
 
@@ -164,7 +164,7 @@ Allows executives to quickly assess portfolio performance and identify areas req
 
 ### 3.3 Financial Dashboard
 
-![Financial Dashboard](assets/financial.png)
+![Financial Dashboard](assets/financial.jpg)
 
 The Financial Dashboard focuses on budget control and financial performance monitoring.
 
@@ -192,7 +192,7 @@ Provides complete financial transparency across the project portfolio and suppor
 
 ### 3.4 Timeline Dashboard
 
-![Timeline Dashboard](assets/timeline.png)
+![Timeline Dashboard](assets/timeline.jpg)
 
 The Timeline Dashboard tracks project execution and delivery performance.
 
@@ -220,7 +220,7 @@ Provides visibility into project execution and enables early identification of s
 
 ### 3.5 Project Details Page
 
-![Project Details Dashboard](assets/details.png)
+![Project Details Dashboard](assets/details.jpg)
 
 The Details page provides a complete project-level view.
 
