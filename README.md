@@ -23,7 +23,7 @@ The objective was to transform scattered project information into a centralized 
 
 ## Platform Flow
 
-Power Apps → Power Automate → SharePoint → Power BI
+Power Apps → SharePoint → Power Automate → Power BI
 
 The architecture enables:
 
